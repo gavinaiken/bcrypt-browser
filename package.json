@@ -1,7 +1,7 @@
 {
-  "name": "bcrypt-browser",
+  "name": "bcrypt",
   "version": "0.8",
-  "description": "Shim for bcrypt",
+  "description": "Browser shim for bcrypt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
